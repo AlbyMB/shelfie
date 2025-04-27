@@ -15,3 +15,4 @@ The app also integrates Google Maps and Places APIs to locate nearby grocery sto
 - Google ML Kit
 - Google Maps & Places API
 - SQLite
+- Uses the Open Food Facts API to get data on food
