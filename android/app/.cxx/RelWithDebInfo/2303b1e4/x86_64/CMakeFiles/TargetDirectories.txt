@@ -1,0 +1,2 @@
+C:/PROG2435/Flutter/shelfie/android/app/.cxx/RelWithDebInfo/2303b1e4/x86_64/CMakeFiles/edit_cache.dir
+C:/PROG2435/Flutter/shelfie/android/app/.cxx/RelWithDebInfo/2303b1e4/x86_64/CMakeFiles/rebuild_cache.dir
