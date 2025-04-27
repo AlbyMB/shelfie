@@ -672,7 +672,7 @@ class _ShoppingScreenState extends State<ShoppingScreen> {
     final url = Uri.parse(
       'https://maps.googleapis.com/maps/api/place/nearbysearch/json'
       '?location=${pos.latitude},${pos.longitude}'
-      '&radius=8000&type=grocery_or_supermarket&key=AIzaSyBiddJ-OpwtctcrjM20CiOIvRG3q2eUUIQ'
+      '&radius=8000&type=grocery_or_supermarket&key=GOOGLE_API_KEY'
     );
     final resp = await http.get(url);
     final data = json.decode(resp.body);
